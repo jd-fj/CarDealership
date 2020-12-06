@@ -1,0 +1,11 @@
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.csprojAssemblyReference.cache
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.csproj.CoreCompileInputs.cache
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfoInputs.cache
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfo.cs
+/Users/taylordelph/Desktop/Epicodus/CarDealership/bin/Debug/netcoreapp2.2/Car.deps.json
+/Users/taylordelph/Desktop/Epicodus/CarDealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.json
+/Users/taylordelph/Desktop/Epicodus/CarDealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.dev.json
+/Users/taylordelph/Desktop/Epicodus/CarDealership/bin/Debug/netcoreapp2.2/Car.dll
+/Users/taylordelph/Desktop/Epicodus/CarDealership/bin/Debug/netcoreapp2.2/Car.pdb
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.dll
+/Users/taylordelph/Desktop/Epicodus/CarDealership/obj/Debug/netcoreapp2.2/Car.pdb
